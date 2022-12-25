@@ -24,7 +24,7 @@ const num = 108;
 let mm: any = 1;
 mm = 'asdf';
 mm = [];
-mm.toUpperCase();
+//mm.toUpperCase();
 
 
 let xx: unknown = 2;

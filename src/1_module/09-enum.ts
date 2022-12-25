@@ -3,8 +3,7 @@ enum ShapeKind {
     Square,
 }
 
-const sample = ShapeKind.Circle
-
+const sample = ShapeKind.Square;
 
 enum StatusCode {
     ERROR = 500,
@@ -12,6 +11,11 @@ enum StatusCode {
     NOT_AUTH = 403,
 }
 
+const aa = 10;
+const bb = 11;
+
+
+let c = aa + bb;
 
 enum Grades {
     Junior = 'junior',

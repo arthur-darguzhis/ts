@@ -10,7 +10,6 @@ collection.push(['asdf', 'asdf'])
 collection.push(['asdf', 'asdf'])
 collection.push(['asdf', 'asdf'])
 collection.push(['asdf', 'asdf'])
-
 type DiffCar = {
     wheels: number;
     brand: string;

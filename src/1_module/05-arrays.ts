@@ -12,7 +12,9 @@ const arr2: Array<number> = [];
 
 const car1: Car = {
     wheels: 4,
-    brand: 'tesla'
+    brand: 'tesla',
+    isNew: false,
+    type: 'sedan'
 }
 
 const cars: Car[] = [];
